@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Aplicação Mobile](https://github.com/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas) &#128679;
+* [x] [Aplicação Mobile](https://github.com/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
